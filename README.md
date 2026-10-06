@@ -1,3 +1,3 @@
-# ICC Pŕactica 01
+# ICC Práctica 01
 
 
