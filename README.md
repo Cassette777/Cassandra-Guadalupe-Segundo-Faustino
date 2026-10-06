@@ -1,2 +1,3 @@
-# Cassandra-Guadalupe-Segundo-Faustino
+# ICC Pŕactica 01
+
 
